@@ -9,3 +9,6 @@
 (01)   clone
 (02)   -----
 (03)   add + commit "Paso 03"
+(09)   checkout RamaB
+(10)   -----
+(11)   add + commit "Paso 11"
