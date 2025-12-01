@@ -23,4 +23,16 @@
 (14)   merge RamaB                    Fusión recursiva, por que la rama de destino (master)
                                       ya contiene trabajo de la rama de origen (RamaB).
 (15)   add + commit "Paso 15"
-
+(16)   Branch RamaC
+(17)   checkout RamaC
+(18)   stash
+(19)   Branch RamaD 
+       push RamaD
+       checkout RamaD
+(20)   -----
+(21)   add calificacion.txt
+       commit "Paso 21"
+(22)   checkout RamaC
+(23)   stash apply 
+       add
+       commit "Paso 23"
