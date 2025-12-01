@@ -1,6 +1,6 @@
-Centro:
-Calle:
-Número:
-CP: 
-Ciudad: 
-Provincia: 
+Centro: Facultad de Ciencias
+Calle: Los Castros 
+Número: 3
+CP: 39000
+Ciudad: Santander
+Provincia: Santander

@@ -9,3 +9,8 @@
 (01)   clone
 (02)   -----
 (03)   add + commit "Paso 03"
+(04)   branch RamaA
+(05)   branch RamaB
+(06)   checkout RamaA
+(07)   -----
+(08)   add + commit "Paso 08"
