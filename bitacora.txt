@@ -17,4 +17,10 @@
 (09)   checkout RamaB
 (10)   -----
 (11)   add + commit "Paso 11"
+(12)   checkout master
+(13)   merge RamaA                    Fast-Forward por que el destino (master)
+                                      no tiene commits que no tenga el origen RamaA.
+(14)   merge RamaB                    Fusión recursiva, por que la rama de destino (master)
+                                      ya contiene trabajo de la rama de origen (RamaB).
+(15)   add + commit "Paso 15"
 
