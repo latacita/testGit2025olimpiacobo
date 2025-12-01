@@ -36,3 +36,11 @@
 (23)   stash apply 
        add
        commit "Paso 23"
+(24)   checkout master
+(25)                                  Fast-Forward por que el destino (master)
+                                      no tiene commits que no tenga el origen RamaC.
+(26)   merge RamaD                    Fast-Forward
+(27)   merge RamaC                    Fusión recursiva
+(28)   tag "Conseguido"
+(29)   add + commit "Paso 29"
+
